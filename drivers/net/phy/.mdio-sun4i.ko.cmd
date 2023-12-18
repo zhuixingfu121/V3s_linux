@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/mdio-sun4i.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o drivers/net/phy/mdio-sun4i.ko drivers/net/phy/mdio-sun4i.o drivers/net/phy/mdio-sun4i.mod.o ;  true

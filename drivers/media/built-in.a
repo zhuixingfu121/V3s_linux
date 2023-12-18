@@ -1,0 +1,80 @@
+!<thin>
+//                                              838       `
+tuners/tuner-xc2028.o/
+tuners/tuner-simple.o/
+tuners/tuner-types.o/
+tuners/mt20xx.o/
+tuners/tda8290.o/
+tuners/tda9887.o/
+tuners/tda827x.o/
+tuners/tda18271-maps.o/
+tuners/tda18271-common.o/
+tuners/tda18271-fe.o/
+tuners/xc5000.o/
+tuners/xc4000.o/
+tuners/mc44s803.o/
+mc/mc-device.o/
+mc/mc-devnode.o/
+mc/mc-entity.o/
+mc/mc-request.o/
+mc/mc-dev-allocator.o/
+v4l2-core/v4l2-dev.o/
+v4l2-core/v4l2-ioctl.o/
+v4l2-core/v4l2-device.o/
+v4l2-core/v4l2-fh.o/
+v4l2-core/v4l2-event.o/
+v4l2-core/v4l2-ctrls.o/
+v4l2-core/v4l2-subdev.o/
+v4l2-core/v4l2-clk.o/
+v4l2-core/v4l2-async.o/
+v4l2-core/v4l2-mc.o/
+v4l2-core/v4l2-common.o/
+v4l2-core/v4l2-dv-timings.o/
+dvb-core/dvbdev.o/
+dvb-core/dmxdev.o/
+dvb-core/dvb_demux.o/
+dvb-core/dvb_ca_en50221.o/
+dvb-core/dvb_frontend.o/
+dvb-core/dvb_net.o/
+dvb-core/dvb_ringbuffer.o/
+dvb-core/dvb_math.o/
+spi/cxd2880-spi.o/
+/0              0           0     0     644     31080     `
+/23             0           0     0     644     20044     `
+/46             0           0     0     644     18548     `
+/68             0           0     0     644     15744     `
+/85             0           0     0     644     20416     `
+/103            0           0     0     644     15176     `
+/121            0           0     0     644     14528     `
+/139           /0           0     0     644     14344     `
+/163            0           0     0     644     16020     `
+/189            0           0     0     644     27352     `
+/211            0           0     0     644     25744     `
+/228            0           0     0     644     32592     `
+/245            0           0     0     644     4772      `
+/264            0           0     0     644     13328     `
+/280            0           0     0     644     7040      `
+/297            0           0     0     644     18008     `
+/313            0           0     0     644     8988      `
+/330            0           0     0     644     3536      `
+/353            0           0     0     644     21092     `
+/375            0           0     0     644     67756     `
+/399            0           0     0     644     7248      `
+/424            0           0     0     644     4736      `
+/445            0           0     0     644     9152      `
+/469            0           0     0     644     90860     `
+/493            0           0     0     644     13124     `
+/518            0           0     0     644     8772      `
+/540            0           0     0     644     11352     `
+/564            0           0     0     644     8632      `
+/585            0           0     0     644     14120     `
+/610            0           0     0     644     31180     `
+/639            0           0     0     644     14036     `
+/658            0           0     0     644     17972     `
+/677            0           0     0     644     17628     `
+/699            0           0     0     644     25020     `
+/726            0           0     0     644     30548     `
+/751            0           0     0     644     17924     `
+/771            0           0     0     644     7988      `
+/798            0           0     0     644     2772      `
+/819            0           0     0     644     16320     `

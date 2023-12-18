@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/davicom/dm9000.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o drivers/net/ethernet/davicom/dm9000.ko drivers/net/ethernet/davicom/dm9000.o drivers/net/ethernet/davicom/dm9000.mod.o ;  true

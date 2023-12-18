@@ -1,0 +1,14 @@
+!<thin>
+//                                              94        `
+thermal_core.o/
+thermal_sysfs.o/
+thermal_helpers.o/
+of-thermal.o/
+step_wise.o/
+cpu_cooling.o/
+/0              0           0     0     644     25024     `
+/16            /0           0     0     644     13500     `
+/33             0           0     0     644     4804      `
+/52             0           0     0     644     14128     `
+/66             0           0     0     644     2788      `
+/79             0           0     0     644     8956      `

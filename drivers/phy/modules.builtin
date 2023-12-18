@@ -1,0 +1,2 @@
+kernel/drivers/phy/allwinner/phy-sun4i-usb.ko
+kernel/drivers/phy/allwinner/phy-sun6i-mipi-dphy.ko

@@ -1,0 +1,2 @@
+kernel/drivers/media/platform/video-mux.ko
+kernel/drivers/media/platform/sunxi/sun6i-csi/sun6i-csi.ko

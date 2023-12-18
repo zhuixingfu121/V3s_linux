@@ -1,0 +1,12 @@
+!<thin>
+//                                              84        `
+cpufreq.o/
+freq_table.o/
+cpufreq_performance.o/
+cpufreq-dt.o/
+cpufreq-dt-platdev.o/
+/0              0           0     0     644     48368     `
+/11             0           0     0     644     6872      `
+/25             0           0     0     644     3280      `
+/48             0           0     0     644     8252      `
+/62             0           0     0     644     19240     `

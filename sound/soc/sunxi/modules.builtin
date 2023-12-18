@@ -1,0 +1,3 @@
+kernel/sound/soc/sunxi/sun4i-codec.ko
+kernel/sound/soc/sunxi/sun8i-codec-analog.ko
+kernel/sound/soc/sunxi/sun8i-adda-pr-regmap.ko

@@ -1,0 +1,4 @@
+kernel/drivers/media/usb/uvc/uvcvideo.ko
+kernel/drivers/media/usb/gspca/gspca_main.ko
+kernel/drivers/media/usb/em28xx/em28xx.ko
+kernel/drivers/media/usb/em28xx/em28xx-v4l.ko

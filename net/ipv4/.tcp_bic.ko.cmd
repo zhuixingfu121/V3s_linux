@@ -1,0 +1,1 @@
+cmd_net/ipv4/tcp_bic.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o net/ipv4/tcp_bic.ko net/ipv4/tcp_bic.o net/ipv4/tcp_bic.mod.o ;  true

@@ -1,0 +1,46 @@
+!<thin>
+//                                              390       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+ff-memless.o/
+input-polldev.o/
+input-leds.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/sun4i-lradc-keys.o/
+mouse/psmouse-base.o/
+mouse/synaptics.o/
+mouse/focaltech.o/
+mouse/alps.o/
+mouse/byd.o/
+mouse/logips2pp.o/
+mouse/trackpoint.o/
+mouse/cypress_ps2.o/
+mouse/psmouse-smbus.o/
+touchscreen/of_touchscreen.o/
+touchscreen/ns2009.o/
+misc/axp20x-pek.o/
+/0              0           0     0     644     41648     `
+/9              0           0     0     644     2664      `
+/25             0           0     0     644     7552      `
+/37             0           0     0     644     5740      `
+/48             0           0     0     644     7208      `
+/62            /0           0     0     644     7236      `
+/79             0           0     0     644     6012      `
+/93             0           0     0     644     19136     `
+/102            0           0     0     644     24368     `
+/120            0           0     0     644     7260      `
+/149            0           0     0     644     29504     `
+/171            0           0     0     644     22956     `
+/190            0           0     0     644     5432      `
+/209            0           0     0     644     32108     `
+/223            0           0     0     644     4916      `
+/236            0           0     0     644     6076      `
+/255            0           0     0     644     10272     `
+/275            0           0     0     644     7728      `
+/296           /0           0     0     644     5412      `
+/319            0           0     0     644     5048      `
+/349            0           0     0     644     4852      `
+/371            0           0     0     644     7756      `

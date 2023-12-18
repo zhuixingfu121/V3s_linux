@@ -1,0 +1,1 @@
+cmd_drivers/media/common/videobuf2/videobuf2-memops.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o drivers/media/common/videobuf2/videobuf2-memops.ko drivers/media/common/videobuf2/videobuf2-memops.o drivers/media/common/videobuf2/videobuf2-memops.mod.o ;  true

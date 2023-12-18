@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-sunxi/built-in.a := rm -f arch/arm/mach-sunxi/built-in.a; arm-linux-gnueabihf-ar rcSTPD arch/arm/mach-sunxi/built-in.a arch/arm/mach-sunxi/sunxi.o arch/arm/mach-sunxi/mc_smp.o arch/arm/mach-sunxi/headsmp.o arch/arm/mach-sunxi/platsmp.o

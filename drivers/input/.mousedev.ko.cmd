@@ -1,0 +1,1 @@
+cmd_drivers/input/mousedev.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o drivers/input/mousedev.ko drivers/input/mousedev.o drivers/input/mousedev.mod.o ;  true

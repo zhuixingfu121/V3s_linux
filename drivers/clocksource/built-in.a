@@ -1,0 +1,15 @@
+!<thin>
+//                                              84        `
+timer-of.o/
+timer-probe.o/
+mmio.o/
+timer-sun4i.o/
+arm_arch_timer.o/
+dummy_timer.o/
+
+/0              0           0     0     644     3508      `
+/12             0           0     0     644     2456      `
+/27             0           0     0     644     2092      `
+/35             0           0     0     644     4732      `
+/50             0           0     0     644     18016     `
+/68             0           0     0     644     2700      `

@@ -1,0 +1,31 @@
+!<thin>
+//                                              234       `
+keys/gc.o/
+keys/key.o/
+keys/keyring.o/
+keys/keyctl.o/
+keys/permission.o/
+keys/process_keys.o/
+keys/request_key.o/
+keys/request_key_auth.o/
+keys/user_defined.o/
+keys/proc.o/
+keys/sysctl.o/
+keys/keyctl_pkey.o/
+commoncap.o/
+min_addr.o/
+
+/0              0           0     0     644     6084      `
+/11             0           0     0     644     16540     `
+/23             0           0     0     644     17628     `
+/39             0           0     0     644     16392     `
+/54             0           0     0     644     2092      `
+/73             0           0     0     644     9808      `
+/94             0           0     0     644     9292      `
+/114            0           0     0     644     4784      `
+/139            0           0     0     644     5400      `
+/160            0           0     0     644     6728      `
+/173            0           0     0     644     1800      `
+/188            0           0     0     644     4628      `
+/208            0           0     0     644     10028     `
+/221            0           0     0     644     2152      `

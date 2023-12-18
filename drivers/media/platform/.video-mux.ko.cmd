@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/video-mux.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o drivers/media/platform/video-mux.ko drivers/media/platform/video-mux.o drivers/media/platform/video-mux.mod.o ;  true

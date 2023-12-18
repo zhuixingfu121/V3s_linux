@@ -1,0 +1,11 @@
+sun8i-v3s-licheepi-zero-with-800x480-lcd.o: \
+ arch/arm/boot/dts/sun8i-v3s-licheepi-zero-with-800x480-lcd.dts \
+ arch/arm/boot/dts/sun8i-v3s-licheepi-zero-with-lcd.dtsi \
+ arch/arm/boot/dts/sun8i-v3s-licheepi-zero.dts \
+ arch/arm/boot/dts/sun8i-v3s.dtsi \
+ scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h \
+ scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h \
+ scripts/dtc/include-prefixes/dt-bindings/clock/sun8i-v3s-ccu.h \
+ scripts/dtc/include-prefixes/dt-bindings/reset/sun8i-v3s-ccu.h \
+ arch/arm/boot/dts/sunxi-common-regulators.dtsi \
+ scripts/dtc/include-prefixes/dt-bindings/gpio/gpio.h

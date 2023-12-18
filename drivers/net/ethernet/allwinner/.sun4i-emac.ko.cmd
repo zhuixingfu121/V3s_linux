@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/allwinner/sun4i-emac.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o drivers/net/ethernet/allwinner/sun4i-emac.ko drivers/net/ethernet/allwinner/sun4i-emac.o drivers/net/ethernet/allwinner/sun4i-emac.mod.o ;  true
