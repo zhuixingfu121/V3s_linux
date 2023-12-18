@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/fixed_phy.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o drivers/net/phy/fixed_phy.ko drivers/net/phy/fixed_phy.o drivers/net/phy/fixed_phy.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/libphy.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o drivers/net/phy/libphy.ko drivers/net/phy/libphy.o drivers/net/phy/libphy.mod.o ;  true

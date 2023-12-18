@@ -1,1 +1,1 @@
-#define UTS_RELEASE "5.2.0-licheepi-zero"
+#define UTS_RELEASE "5.2.0-licheepi-zero+"

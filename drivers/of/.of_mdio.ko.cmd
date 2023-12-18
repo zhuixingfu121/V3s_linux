@@ -1,0 +1,1 @@
+cmd_drivers/of/of_mdio.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o drivers/of/of_mdio.ko drivers/of/of_mdio.o drivers/of/of_mdio.mod.o ;  true

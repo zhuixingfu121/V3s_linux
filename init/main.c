@@ -604,14 +604,16 @@ asmlinkage __visible void __init start_kernel(void)
 	build_all_zonelists(NULL);
 	page_alloc_init();
 
-    printk(" ********** ********\r\n");
-    printk("/////**/// /**///// \r\n");
-    printk("    /**    /**      \r\n");
-    printk("    /**    /******* \r\n");
-    printk("    /**    /**////  \r\n");
-    printk("    /**    /**      \r\n");
-    printk("    /**    /********\r\n");
-    printk("    //     //////// \r\n");
+    printk("                                          ____                  \r\n");
+    printk(" /'\\_/'\\                                 /\\  _'\\   __           \r\n");
+    printk("/\\      \\     __      ___      __     ___\\ \\ \\L\\ \\/\\_\\     __   \r\n");
+    printk("\\ \\ \\__\\ \\  /'__'\\  /' _ '\\  /'_ '\\  / __'\\ \\ ,__/\\/\\ \\  /'__`\\ \r\n");
+    printk(" \\ \\ \\_/\\ \\/\\ \\L\\.\\_/\\ \\/\\ \\/\\ \\L\\ \\/\\ \\L\\ \\ \\ \\/  \\ \\ \\/\\  __/ \r\n");
+    printk("  \\ \\_\\  \\_\\ \\__/.\\_\\ \\_\\ \\_\\ \\____ \\ \\____/\\ \\_\\   \\ \\_\\ \\____\\\r\n");
+    printk("   \\/_/ \\/_/\\/__/\\/_/\\/_/\\/_/\\/___L\\ \\/___/  \\/_/    \\/_/\\/____/\r\n");
+    printk("                               /\\____/                          \r\n");
+    printk("                               \\_/__/                           \r\n");
+	printk("    \r\n");
 	
 	pr_notice("Kernel command line: %s\n", boot_command_line);
 	/* parameters may set static keys */

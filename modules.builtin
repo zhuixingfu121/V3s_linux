@@ -11,7 +11,6 @@ kernel/fs/nfs/nfs.ko
 kernel/fs/nfs/nfsv3.ko
 kernel/fs/nfs/nfsv4.ko
 kernel/fs/nfs/filelayout/nfs_layout_nfsv41_files.ko
-kernel/fs/nfs_common/nfs_acl.ko
 kernel/fs/nfs_common/grace.ko
 kernel/fs/nls/nls_base.ko
 kernel/fs/nls/nls_cp437.ko
